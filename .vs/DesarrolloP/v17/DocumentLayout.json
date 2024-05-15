@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{77E9DB91-6D40-416D-B694-6DBE5C62F050}|DesarrolloP\\DesarrolloP.csproj|c:\\users\\crist\\onedrive\\desktop\\carpetas\\uni\\septimo semestre\\desarrollo orientado a plataformas\\desarrollo orientado plataformas\\parcial\\nueva carpeta\\nueva carpeta\\desarrollop\\desarrollop\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E9DB91-6D40-416D-B694-6DBE5C62F050}|DesarrolloP\\DesarrolloP.csproj|solutionrelative:desarrollop\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DB343E-BA69-4869-9D56-8CB89F2A17A7}|Business\\Business.csproj|c:\\users\\crist\\onedrive\\desktop\\carpetas\\uni\\septimo semestre\\desarrollo orientado a plataformas\\desarrollo orientado plataformas\\parcial\\nueva carpeta\\nueva carpeta\\desarrollop\\business\\interfaces\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DB343E-BA69-4869-9D56-8CB89F2A17A7}|Business\\Business.csproj|solutionrelative:business\\interfaces\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DB343E-BA69-4869-9D56-8CB89F2A17A7}|Business\\Business.csproj|c:\\users\\crist\\onedrive\\desktop\\carpetas\\uni\\septimo semestre\\desarrollo orientado a plataformas\\desarrollo orientado plataformas\\parcial\\nueva carpeta\\nueva carpeta\\desarrollop\\business\\implementations\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DB343E-BA69-4869-9D56-8CB89F2A17A7}|Business\\Business.csproj|solutionrelative:business\\implementations\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{83DB343E-BA69-4869-9D56-8CB89F2A17A7}|Business\\Business.csproj|c:\\users\\crist\\onedrive\\desktop\\carpetas\\uni\\septimo semestre\\desarrollo orientado a plataformas\\desarrollo orientado plataformas\\parcial\\nueva carpeta\\nueva carpeta\\desarrollop\\business\\implementations\\personaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83DB343E-BA69-4869-9D56-8CB89F2A17A7}|Business\\Business.csproj|solutionrelative:business\\implementations\\personaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,36 +23,32 @@
       "RelativeMoniker": "D:0:0:{77E9DB91-6D40-416D-B694-6DBE5C62F050}|DesarrolloP\\DesarrolloP.csproj|solutionrelative:desarrollop\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83DB343E-BA69-4869-9D56-8CB89F2A17A7}|Business\\Business.csproj|c:\\users\\crist\\onedrive\\desktop\\carpetas\\uni\\septimo semestre\\desarrollo orientado a plataformas\\desarrollo orientado plataformas\\parcial\\nueva carpeta\\nueva carpeta\\desarrollop\\business\\interfaces\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83DB343E-BA69-4869-9D56-8CB89F2A17A7}|Business\\Business.csproj|solutionrelative:business\\interfaces\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{83DB343E-BA69-4869-9D56-8CB89F2A17A7}|Business\\Business.csproj|c:\\users\\crist\\onedrive\\desktop\\carpetas\\uni\\septimo semestre\\desarrollo orientado a plataformas\\desarrollo orientado plataformas\\parcial\\nueva carpeta\\nueva carpeta\\desarrollop\\business\\interfaces\\ipersonaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83DB343E-BA69-4869-9D56-8CB89F2A17A7}|Business\\Business.csproj|solutionrelative:business\\interfaces\\ipersonaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83DB343E-BA69-4869-9D56-8CB89F2A17A7}|Business\\Business.csproj|c:\\users\\crist\\onedrive\\desktop\\carpetas\\uni\\septimo semestre\\desarrollo orientado a plataformas\\desarrollo orientado plataformas\\parcial\\nueva carpeta\\nueva carpeta\\desarrollop\\business\\interfaces\\iperfilservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83DB343E-BA69-4869-9D56-8CB89F2A17A7}|Business\\Business.csproj|solutionrelative:business\\interfaces\\iperfilservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83DB343E-BA69-4869-9D56-8CB89F2A17A7}|Business\\Business.csproj|c:\\users\\crist\\onedrive\\desktop\\carpetas\\uni\\septimo semestre\\desarrollo orientado a plataformas\\desarrollo orientado plataformas\\parcial\\nueva carpeta\\nueva carpeta\\desarrollop\\business\\implementations\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83DB343E-BA69-4869-9D56-8CB89F2A17A7}|Business\\Business.csproj|solutionrelative:business\\implementations\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45583C7B-0017-4C63-ABBE-AE7D41AFD4A2}|Core\\Core.csproj|c:\\users\\crist\\onedrive\\desktop\\carpetas\\uni\\septimo semestre\\desarrollo orientado a plataformas\\desarrollo orientado plataformas\\parcial\\nueva carpeta\\nueva carpeta\\desarrollop\\core\\modelsview\\usuarioview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45583C7B-0017-4C63-ABBE-AE7D41AFD4A2}|Core\\Core.csproj|solutionrelative:core\\modelsview\\usuarioview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B7124D6-AC65-475E-9C51-3812CD505EC2}|Infraestrucuta\\Infraestrucuta.csproj|c:\\users\\crist\\onedrive\\desktop\\carpetas\\uni\\septimo semestre\\desarrollo orientado a plataformas\\desarrollo orientado plataformas\\parcial\\nueva carpeta\\nueva carpeta\\desarrollop\\infraestrucuta\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B7124D6-AC65-475E-9C51-3812CD505EC2}|Infraestrucuta\\Infraestrucuta.csproj|solutionrelative:infraestrucuta\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B7124D6-AC65-475E-9C51-3812CD505EC2}|Infraestrucuta\\Infraestrucuta.csproj|c:\\users\\crist\\onedrive\\desktop\\carpetas\\uni\\septimo semestre\\desarrollo orientado a plataformas\\desarrollo orientado plataformas\\parcial\\nueva carpeta\\nueva carpeta\\desarrollop\\infraestrucuta\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B7124D6-AC65-475E-9C51-3812CD505EC2}|Infraestrucuta\\Infraestrucuta.csproj|solutionrelative:infraestrucuta\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45583C7B-0017-4C63-ABBE-AE7D41AFD4A2}|Core\\Core.csproj|c:\\users\\crist\\onedrive\\desktop\\carpetas\\uni\\septimo semestre\\desarrollo orientado a plataformas\\desarrollo orientado plataformas\\parcial\\nueva carpeta\\nueva carpeta\\desarrollop\\core\\modelsview\\perfilview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45583C7B-0017-4C63-ABBE-AE7D41AFD4A2}|Core\\Core.csproj|solutionrelative:core\\modelsview\\perfilview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45583C7B-0017-4C63-ABBE-AE7D41AFD4A2}|Core\\Core.csproj|c:\\users\\crist\\onedrive\\desktop\\carpetas\\uni\\septimo semestre\\desarrollo orientado a plataformas\\desarrollo orientado plataformas\\parcial\\nueva carpeta\\nueva carpeta\\desarrollop\\core\\modelsview\\personaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45583C7B-0017-4C63-ABBE-AE7D41AFD4A2}|Core\\Core.csproj|solutionrelative:core\\modelsview\\personaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45583C7B-0017-4C63-ABBE-AE7D41AFD4A2}|Core\\Core.csproj|c:\\users\\crist\\onedrive\\desktop\\carpetas\\uni\\septimo semestre\\desarrollo orientado a plataformas\\desarrollo orientado plataformas\\parcial\\nueva carpeta\\nueva carpeta\\desarrollop\\core\\modelsview\\perfilview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45583C7B-0017-4C63-ABBE-AE7D41AFD4A2}|Core\\Core.csproj|solutionrelative:core\\modelsview\\perfilview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B7124D6-AC65-475E-9C51-3812CD505EC2}|Infraestrucuta\\Infraestrucuta.csproj|c:\\users\\crist\\onedrive\\desktop\\carpetas\\uni\\septimo semestre\\desarrollo orientado a plataformas\\desarrollo orientado plataformas\\parcial\\nueva carpeta\\nueva carpeta\\desarrollop\\infraestrucuta\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7124D6-AC65-475E-9C51-3812CD505EC2}|Infraestrucuta\\Infraestrucuta.csproj|solutionrelative:infraestrucuta\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DB343E-BA69-4869-9D56-8CB89F2A17A7}|Business\\Business.csproj|c:\\users\\crist\\onedrive\\desktop\\carpetas\\uni\\septimo semestre\\desarrollo orientado a plataformas\\desarrollo orientado plataformas\\parcial\\nueva carpeta\\nueva carpeta\\desarrollop\\business\\interfaces\\iperfilservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DB343E-BA69-4869-9D56-8CB89F2A17A7}|Business\\Business.csproj|solutionrelative:business\\interfaces\\iperfilservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77E9DB91-6D40-416D-B694-6DBE5C62F050}|DesarrolloP\\DesarrolloP.csproj|c:\\users\\crist\\onedrive\\desktop\\carpetas\\uni\\septimo semestre\\desarrollo orientado a plataformas\\desarrollo orientado plataformas\\parcial\\nueva carpeta\\nueva carpeta\\desarrollop\\desarrollop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -64,10 +72,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0B7124D6-AC65-475E-9C51-3812CD505EC2}|Infraestrucuta\\Infraestrucuta.csproj|c:\\users\\crist\\onedrive\\desktop\\carpetas\\uni\\septimo semestre\\desarrollo orientado a plataformas\\desarrollo orientado plataformas\\parcial\\nueva carpeta\\nueva carpeta\\desarrollop\\infraestrucuta\\models\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B7124D6-AC65-475E-9C51-3812CD505EC2}|Infraestrucuta\\Infraestrucuta.csproj|solutionrelative:infraestrucuta\\models\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45583C7B-0017-4C63-ABBE-AE7D41AFD4A2}|Core\\Core.csproj|c:\\users\\crist\\onedrive\\desktop\\carpetas\\uni\\septimo semestre\\desarrollo orientado a plataformas\\desarrollo orientado plataformas\\parcial\\nueva carpeta\\nueva carpeta\\desarrollop\\core\\modelsview\\usuarioview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45583C7B-0017-4C63-ABBE-AE7D41AFD4A2}|Core\\Core.csproj|solutionrelative:core\\modelsview\\usuarioview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B7124D6-AC65-475E-9C51-3812CD505EC2}|Infraestrucuta\\Infraestrucuta.csproj|c:\\users\\crist\\onedrive\\desktop\\carpetas\\uni\\septimo semestre\\desarrollo orientado a plataformas\\desarrollo orientado plataformas\\parcial\\nueva carpeta\\nueva carpeta\\desarrollop\\infraestrucuta\\infraestrucuta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -121,57 +125,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PersonaServices.cs",
-              "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Business\\Implementations\\PersonaServices.cs",
-              "RelativeDocumentMoniker": "Business\\Implementations\\PersonaServices.cs",
-              "ToolTip": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Business\\Implementations\\PersonaServices.cs",
-              "RelativeToolTip": "Business\\Implementations\\PersonaServices.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAIwFsAAAAfAAAA",
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\DesarrolloP\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "DesarrolloP\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\DesarrolloP\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "DesarrolloP\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvz8AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:45:13.781Z",
+              "WhenOpened": "2024-05-15T21:24:24.413Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PersonaController.cs",
               "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\DesarrolloP\\Controllers\\PersonaController.cs",
               "RelativeDocumentMoniker": "DesarrolloP\\Controllers\\PersonaController.cs",
               "ToolTip": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\DesarrolloP\\Controllers\\PersonaController.cs",
               "RelativeToolTip": "DesarrolloP\\Controllers\\PersonaController.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAIwFAAAAAAAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAwwGYAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T00:21:32.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\DesarrolloP\\DesarrolloP\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\DesarrolloP\\DesarrolloP\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\DesarrolloP\\DesarrolloP\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\DesarrolloP\\DesarrolloP\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:23:00.446Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IPerfilServices.cs",
-              "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Business\\Interfaces\\IPerfilServices.cs",
-              "RelativeDocumentMoniker": "Business\\Interfaces\\IPerfilServices.cs",
-              "ToolTip": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Business\\Interfaces\\IPerfilServices.cs",
-              "RelativeToolTip": "Business\\Interfaces\\IPerfilServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T23:35:11.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IPersonaServices.cs",
               "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Business\\Interfaces\\IPersonaServices.cs",
               "RelativeDocumentMoniker": "Business\\Interfaces\\IPersonaServices.cs",
@@ -179,12 +158,11 @@
               "RelativeToolTip": "Business\\Interfaces\\IPersonaServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T23:36:29.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T23:36:29.281Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Infraestrucuta\\Models\\Persona.cs",
               "RelativeDocumentMoniker": "Infraestrucuta\\Models\\Persona.cs",
@@ -196,32 +174,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Infraestrucuta\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Infraestrucuta\\Models\\Usuario.cs",
               "ToolTip": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Infraestrucuta\\Models\\Usuario.cs",
               "RelativeToolTip": "Infraestrucuta\\Models\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T00:36:01.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "UsuarioService.cs",
               "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Business\\Implementations\\UsuarioService.cs",
               "RelativeDocumentMoniker": "Business\\Implementations\\UsuarioService.cs",
               "ToolTip": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Business\\Implementations\\UsuarioService.cs",
               "RelativeToolTip": "Business\\Implementations\\UsuarioService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAUAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwFEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T00:45:30.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\DesarrolloP\\appsettings.json",
               "RelativeDocumentMoniker": "DesarrolloP\\appsettings.json",
@@ -233,32 +211,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "UsuarioView.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Core\\ModelsView\\UsuarioView.cs",
+              "RelativeDocumentMoniker": "Core\\ModelsView\\UsuarioView.cs",
+              "ToolTip": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Core\\ModelsView\\UsuarioView.cs",
+              "RelativeToolTip": "Core\\ModelsView\\UsuarioView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T23:32:45.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IUsuarioServices.cs",
               "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Business\\Interfaces\\IUsuarioServices.cs",
               "RelativeDocumentMoniker": "Business\\Interfaces\\IUsuarioServices.cs",
               "ToolTip": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Business\\Interfaces\\IUsuarioServices.cs",
               "RelativeToolTip": "Business\\Interfaces\\IUsuarioServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T23:35:46.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PerfilView.cs",
-              "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Core\\ModelsView\\PerfilView.cs",
-              "RelativeDocumentMoniker": "Core\\ModelsView\\PerfilView.cs",
-              "ToolTip": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Core\\ModelsView\\PerfilView.cs",
-              "RelativeToolTip": "Core\\ModelsView\\PerfilView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "DocumentIndex": 3,
+              "Title": "PersonaServices.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Business\\Implementations\\PersonaServices.cs",
+              "RelativeDocumentMoniker": "Business\\Implementations\\PersonaServices.cs",
+              "ToolTip": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Business\\Implementations\\PersonaServices.cs",
+              "RelativeToolTip": "Business\\Implementations\\PersonaServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T23:32:27.147Z"
+              "WhenOpened": "2024-05-03T00:45:13.781Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
+              "Title": "IPerfilServices.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Business\\Interfaces\\IPerfilServices.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IPerfilServices.cs",
+              "ToolTip": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Business\\Interfaces\\IPerfilServices.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IPerfilServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T23:35:11.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "PersonaView.cs",
               "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Core\\ModelsView\\PersonaView.cs",
               "RelativeDocumentMoniker": "Core\\ModelsView\\PersonaView.cs",
@@ -270,7 +273,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
+              "Title": "PerfilView.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Core\\ModelsView\\PerfilView.cs",
+              "RelativeDocumentMoniker": "Core\\ModelsView\\PerfilView.cs",
+              "ToolTip": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Core\\ModelsView\\PerfilView.cs",
+              "RelativeToolTip": "Core\\ModelsView\\PerfilView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T23:32:27.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\DesarrolloP\\DesarrolloP\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DesarrolloP\\DesarrolloP\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\DesarrolloP\\DesarrolloP\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DesarrolloP\\DesarrolloP\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:23:00.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "SQLQuery1.sql ",
               "DocumentMoniker": "C:\\Users\\crist\\AppData\\Local\\Temp\\edpv3112..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\edpv3112..sql",
@@ -280,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\DesarrolloP\\Startup.cs",
               "RelativeDocumentMoniker": "DesarrolloP\\Startup.cs",
@@ -292,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\DesarrolloP\\Program.cs",
               "RelativeDocumentMoniker": "DesarrolloP\\Program.cs",
@@ -304,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Desarrollo_plataformasContext.cs",
               "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Infraestrucuta\\Models\\Desarrollo_plataformasContext.cs",
               "RelativeDocumentMoniker": "Infraestrucuta\\Models\\Desarrollo_plataformasContext.cs",
@@ -316,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Perfil.cs",
               "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Infraestrucuta\\Models\\Perfil.cs",
               "RelativeDocumentMoniker": "Infraestrucuta\\Models\\Perfil.cs",
@@ -328,19 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UsuarioView.cs",
-              "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Core\\ModelsView\\UsuarioView.cs",
-              "RelativeDocumentMoniker": "Core\\ModelsView\\UsuarioView.cs",
-              "ToolTip": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Core\\ModelsView\\UsuarioView.cs",
-              "RelativeToolTip": "Core\\ModelsView\\UsuarioView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T23:32:45.88Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Infraestrucuta\\Models\\Class1.cs",
               "RelativeDocumentMoniker": "Infraestrucuta\\Models\\Class1.cs",
@@ -352,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Infraestrucuta.csproj",
               "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Infraestrucuta\\Infraestrucuta.csproj",
               "RelativeDocumentMoniker": "Infraestrucuta\\Infraestrucuta.csproj",
@@ -364,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Infraestrucuta\\Class1.cs",
               "RelativeDocumentMoniker": "Infraestrucuta\\Class1.cs",
@@ -376,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Desarrollo_plataformasContext.cs",
               "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\DesarrolloP\\Models\\Desarrollo_plataformasContext.cs",
               "RelativeDocumentMoniker": "DesarrolloP\\Models\\Desarrollo_plataformasContext.cs",
@@ -388,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Core.csproj",
               "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Core\\Core.csproj",
               "RelativeDocumentMoniker": "Core\\Core.csproj",
@@ -400,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Business\\Class1.cs",
               "RelativeDocumentMoniker": "Business\\Class1.cs",
@@ -412,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "DesarrolloP.csproj",
               "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\DesarrolloP\\DesarrolloP.csproj",
               "RelativeDocumentMoniker": "DesarrolloP\\DesarrolloP.csproj",
@@ -424,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Core\\Class1.cs",
               "RelativeDocumentMoniker": "Core\\Class1.cs",

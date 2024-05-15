@@ -113,7 +113,7 @@ namespace Business.Implementations
             };
             _dbcontext.Personas.Add(Cpersona);
             _dbcontext.SaveChanges();
-            return personaR;
+            return Cpersona;
 
         }
 

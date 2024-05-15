@@ -507,6 +507,9 @@
         }
       },
       "Core/1.0.0": {
+        "dependencies": {
+          "Infraestrucuta": "1.0.0"
+        },
         "runtime": {
           "Core.dll": {}
         }

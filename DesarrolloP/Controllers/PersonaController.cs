@@ -78,28 +78,29 @@ namespace DesarrolloP.Controllers
         }
 
         //    // PUT api/<PersonaController>/5
-        [HttpPut("{id}")]
-        public async Task<ActionResult> Put(int id, string NNombre, string NApellido, string NCorreo)
-        {
-            PersonaView PersonaAc = new PersonaView()
-            {
-                PersonaId= id,
-                Nombre = NNombre,
-                Apellido = NApellido,
-                CorreoElectronico = NCorreo,
+        //[HttpPut("{id}")]
+        //public ActionResult PUT(int id, string NNombre, string NApellido, string NCorreo)
+        //{
+        //    PersonaView PersonaAc = new PersonaView()
+        //    {
+        //        PersonaId = id,
+        //        Nombre = NNombre,
+        //        Apellido = NApellido,
+        //        CorreoElectronico = NCorreo,
 
-            };
-            try
-            {
-                var Actualizarp = _idpersona.ActualizarP(id, PersonaAc);
-                return Ok(Actualizarp);
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+        //    };
+        //    try
+        //    {
+        //        var Actualizarp = _idpersona.ActualizarP(id, PersonaAc);
+        //        return Ok(Actualizarp);
 
-        }
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        return BadRequest(ex.Message);
+        //    }
+
+        //}
 
         // DELETE api/<PersonaController>/5
         [HttpDelete("{id}")]

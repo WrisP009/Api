@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Infraestrucuta.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,5 +14,7 @@ namespace Core.ModelsView
         public int? PerfilId { get; set; }
         public string? NombreUsuario { get; set; }
         public string? Contraseña { get; set; }
+
+        public virtual Persona? Persona { get; set; } = null;
     }
 }

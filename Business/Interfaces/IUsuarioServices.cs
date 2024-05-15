@@ -10,11 +10,11 @@ namespace Business.Interfaces
 {
     public interface IUsuarioServices
     {
-        //List<UsuarioView> ConsultarServicios();
-        //UsuarioView ActualizarP(int id, PersonaView personaView);
-        //UsuarioView EliminarPorId(int id);
-        //UsuarioView buscarid(int id);
+        List<UsuarioView> ConsultarServicios();
+        UsuarioView ActualizarUsuario(int id, UsuarioView usuarioView);
+        UsuarioView EliminarPorId(int id);
+        UsuarioView buscarid(int id);
 
-        //UsuarioView AgregarP(int id, PersonaView personaView);
+        UsuarioView AgregarUsuario(int id, UsuarioView usuarioView);
     }
 }

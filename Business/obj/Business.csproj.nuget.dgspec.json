@@ -118,7 +118,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Infraestrucuta\\Infraestrucuta.csproj": {
+                "projectPath": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Infraestrucuta\\Infraestrucuta.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

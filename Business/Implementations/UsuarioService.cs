@@ -11,127 +11,105 @@ using System.Threading.Tasks;
 
 namespace Business.Implementations
 {
-    public class UsuarioServices : IUsuarioServices
-    {
-        //private readonly Desarrollo_plataformasContext _dbContext;
+    public class UsuarioServices 
+    { 
+        private readonly Desarrollo_plataformasContext _dbContext;
 
-        //public UsuarioServices(Desarrollo_plataformasContext dbContext)
-        //{
-        //    _dbContext = dbContext;
-        //}
+        public UsuarioServices(Desarrollo_plataformasContext dbContext)
+        {
+            _dbContext = dbContext;
+        }
 
-        //public List<UsuarioView> ConsultarUsuarios()
-        //{
-        //    List<UsuarioView> listaUsuariosView = new List<UsuarioView>();
-        //    var usuarios = _dbContext.Usuarios.Include(u => u.Persona).ToList();
+        public List<UsuarioView> ConsultarUsuarios()
+        {
+            List<UsuarioView> listaUsuariosView = new List<UsuarioView>();
+            var usuarios = _dbContext.Usuarios.Include(u => u.Persona).ToList();
 
-        //    foreach (var usuario in usuarios)
-        //    {
-        //        UsuarioView usuarioView = new UsuarioView
-        //        {
-        //            UsuarioId = usuario.UsuarioId,
-        //            NombreUsuario = usuario.NombreUsuario,
-        //            Contraseña = usuario.Contraseña,
+            foreach (var usuario in usuarios)
+            {
+                UsuarioView usuarioView = new UsuarioView
+                {
+                    UsuarioId = usuario.UsuarioId,
+                    PersonaId = usuario.PersonaId,
+                    NombreUsuario = usuario.NombreUsuario,
+                    Contraseña = usuario.Contraseña,
+                    
+                };
+                listaUsuariosView.Add(usuarioView);
+            }
 
-        //            Persona = new PersonaView
-        //            {
-        //                PersonaId = usuario.PersonaId,
-        //                Nombre = usuario.Persona.Nombre,
-        //                Apellido = usuario.Persona.Apellido,
-        //                CorreoElectronico = usuario.Persona.CorreoElectronico
-        //            }
-        //        };
-        //        listaUsuariosView.Add(usuarioView);
-        //    }
+            return listaUsuariosView;
+        }
 
-        //    return listaUsuariosView;
-        //}
+        public UsuarioView BuscarUsuarioPorId(int id)
+        {
+            var usuario = _dbContext.Usuarios.Include(u => u.Persona).FirstOrDefault(u => u.UsuarioId == id);
 
-        //public UsuarioView BuscarUsuarioPorId(int id)
-        //{
-        //    var usuario = _dbContext.Usuarios.Include(u => u.Persona).FirstOrDefault(u => u.UsuarioId == id);
+            if (usuario == null)
+            {
+                return null;
+            }
 
-        //    if (usuario == null)
-        //    {
-        //        return null;
-        //    }
+            UsuarioView usuarioView = new UsuarioView
+            {
+                UsuarioId = usuario.UsuarioId,
+                NombreUsuario = usuario.NombreUsuario,
+                Contraseña = usuario.Contraseña,
+                PersonaId=usuario.PersonaId,
 
-        //    UsuarioView usuarioView = new UsuarioView
-        //    {
-        //        UsuarioId = usuario.UsuarioId,
-        //        NombreUsuario = usuario.NombreUsuario,
-        //        Contraseña = usuario.Contraseña,
+            };
+            return usuarioView;
+        }
 
-        //        Persona = new PersonaView
-        //        {
-        //            PersonaId = usuario.PersonaId,
-        //            Nombre = usuario.Persona.Nombre,
-        //            Apellido = usuario.Persona.Apellido,
-        //            CorreoElectronico = usuario.Persona.CorreoElectronico
-        //        }
-        //    };
-        //    return usuarioView;
-        //}
+        public bool EliminarUsuarioPorId(int id)
+        {
+            var usuario = _dbContext.Usuarios.Find(id);
 
-        //public bool EliminarUsuarioPorId(int id)
-        //{
-        //    var usuario = _dbContext.Usuarios.Find(id);
+            if (usuario == null)
+            {
+                return false;
+            }
 
-        //    if (usuario == null)
-        //    {
-        //        return false;
-        //    }
+            _dbContext.Usuarios.Remove(usuario);
+            _dbContext.SaveChanges();
+            return true;
+        }
 
-        //    _dbContext.Usuarios.Remove(usuario);
-        //    _dbContext.SaveChanges();
-        //    return true;
-        //}
+        public bool ActualizarUsuario(int id, UsuarioView usuarioView)
+        {
+            var usuario = _dbContext.Usuarios.Find(id);
 
-        //public bool ActualizarUsuario(int id, UsuarioView usuarioView)
-        //{
-        //    var usuario = _dbContext.Usuarios.Find(id);
+            if (usuario == null)
+            {
+                return false;
+            }
 
-        //    if (usuario == null)
-        //    {
-        //        return false;
-        //    }
+            usuario.NombreUsuario = usuarioView.NombreUsuario;
+            usuario.Contraseña = usuarioView.Contraseña;
+            _dbContext.SaveChanges();
+            return true;
+        }
 
-        //    usuario.NombreUsuario = usuarioView.NombreUsuario;
-        //    usuario.Contraseña = usuarioView.Contraseña;
-        //    _dbContext.SaveChanges();
-        //    return true;
-        //}
+        public Usuario AgregarUsuario(int id, UsuarioView usuarioView)
+        {
+            var usuarioExistente = _dbContext.Usuarios.Find(usuarioView.UsuarioId);
 
-        //public bool AgregarUsuario(UsuarioView usuarioView)
-        //{
-        //    var usuarioExistente = _dbContext.Usuarios.Find(usuarioView.UsuarioId);
-
-        //    if (usuarioExistente != null)
-        //    {
-        //        return false;
-        //    }
-
-
-        //    var personaExistente = _dbContext.Personas.Find(usuarioView.Persona.PersonaId);
-
-        //    if (personaExistente == null)
-        //    {
-        //        return false;
-        //    }
-
-
-        //    var nuevoUsuario = new Usuario
-        //    {
-        //        UsuarioId = usuarioView.UsuarioId,
-        //        NombreUsuario = usuarioView.NombreUsuario,
-        //        Contraseña = usuarioView.Contraseña,
-        //        PersonaId = usuarioView.Persona.PersonaId
-        //    };
-
-        //    _dbContext.Usuarios.Add(nuevoUsuario);
-        //    _dbContext.SaveChanges();
-        //    return true;
-        //}
+            if (usuarioExistente != null)
+            {
+                return null;
+            }
+            var Cusuario = new Usuario
+            {
+                UsuarioId = usuarioView.UsuarioId,
+                PersonaId = usuarioView.PersonaId,
+                NombreUsuario = usuarioView.NombreUsuario,
+                Contraseña = usuarioView.Contraseña,
+                
+            };
+            _dbContext.Usuarios.Add(Cusuario);
+            _dbContext.SaveChanges();
+            return Cusuario;
+        }
     }
 
 }
