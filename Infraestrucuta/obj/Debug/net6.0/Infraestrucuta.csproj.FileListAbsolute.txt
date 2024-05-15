@@ -1,0 +1,98 @@
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.AssemblyInfo.cs
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.deps.json
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.runtimeconfig.json
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.pdb
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\refint\Infraestrucuta.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.pdb
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.genruntimeconfig.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\ref\Infraestrucuta.dll
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.deps.json
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.runtimeconfig.json
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.dll
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.pdb
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.AssemblyInfo.cs
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.dll
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\refint\Infraestrucuta.dll
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.pdb
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.genruntimeconfig.cache
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\ref\Infraestrucuta.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.deps.json
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.runtimeconfig.json
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.pdb
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.AssemblyInfo.cs
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\refint\Infraestrucuta.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.pdb
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.genruntimeconfig.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\ref\Infraestrucuta.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.deps.json
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.runtimeconfig.json
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.pdb
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\refint\Infraestrucuta.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.pdb
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\ref\Infraestrucuta.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.deps.json
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.runtimeconfig.json
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.pdb
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\refint\Infraestrucuta.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.pdb
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\ref\Infraestrucuta.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.deps.json
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.runtimeconfig.json
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.pdb
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.AssemblyInfo.cs
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\refint\Infraestrucuta.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.pdb
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.genruntimeconfig.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\ref\Infraestrucuta.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.deps.json
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.runtimeconfig.json
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.pdb
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\refint\Infraestrucuta.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.pdb
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\ref\Infraestrucuta.dll

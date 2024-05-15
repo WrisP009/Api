@@ -1,0 +1,77 @@
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Core\bin\Debug\net6.0\Core.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Core\obj\Debug\net6.0\Core.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\DesarrolloP\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Core\bin\Debug\net6.0\Core.dll
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\Core.dll
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\user\Documents\Desarrollo a platafomras\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Core\bin\Debug\net6.0\Core.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\Core.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\2\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Core\bin\Debug\net6.0\Core.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\Core.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\DesarrolloP\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Core\bin\Debug\net6.0\Core.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Core\obj\Debug\net6.0\Core.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\DesarrolloP\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Core\bin\Debug\net6.0\Core.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Core\obj\Debug\net6.0\Core.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Nueva carpeta\DesarrolloP\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Core\bin\Debug\net6.0\Core.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Core\obj\Debug\net6.0\Core.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Core\obj\Debug\net6.0\ref\Core.dll
