@@ -1,5 +1,5 @@
 ﻿using Core.ModelsView;
-
+using Infraestrucuta.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,11 +10,11 @@ namespace Business.Interfaces
 {
     public interface IUsuarioServices
     {
-        List<UsuarioView> ConsultarServicios();
-        UsuarioView ActualizarUsuario(int id, UsuarioView usuarioView);
-        UsuarioView EliminarPorId(int id);
-        UsuarioView buscarid(int id);
+        List<UsuarioView> ConsultarUsuarios();
+        Usuario ActualizarUsuario(int id, UsuarioView usuarioView);
+        bool EliminarUsuarioPorId(int id);
+        UsuarioView BuscarUsuarioPorId(int id);
 
-        UsuarioView AgregarUsuario(int id, UsuarioView usuarioView);
+        Usuario AgregarUsuario(int id, UsuarioView usuarioView);
     }
 }

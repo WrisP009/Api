@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Infraestrucuta\\Infraestrucuta.csproj": {}
+    "C:\\Users\\user\\Documents\\Desarrollo Orientado Plataformas\\Parcial\\DesarrolloP\\Infraestrucuta\\Infraestrucuta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Infraestrucuta\\Infraestrucuta.csproj": {
+    "C:\\Users\\user\\Documents\\Desarrollo Orientado Plataformas\\Parcial\\DesarrolloP\\Infraestrucuta\\Infraestrucuta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Infraestrucuta\\Infraestrucuta.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\Desarrollo Orientado Plataformas\\Parcial\\DesarrolloP\\Infraestrucuta\\Infraestrucuta.csproj",
         "projectName": "Infraestrucuta",
-        "projectPath": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Infraestrucuta\\Infraestrucuta.csproj",
-        "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crist\\OneDrive\\Desktop\\Carpetas\\UNI\\Septimo Semestre\\Desarrollo Orientado a Plataformas\\Desarrollo Orientado Plataformas\\parcial\\Nueva carpeta\\Nueva carpeta\\DesarrolloP\\Infraestrucuta\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\Desarrollo Orientado Plataformas\\Parcial\\DesarrolloP\\Infraestrucuta\\Infraestrucuta.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\Desarrollo Orientado Plataformas\\Parcial\\DesarrolloP\\Infraestrucuta\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

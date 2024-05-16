@@ -97,3 +97,18 @@ C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orienta
 C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.pdb
 C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.genruntimeconfig.cache
 C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\parcial\Nueva carpeta\Nueva carpeta\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\ref\Infraestrucuta.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.deps.json
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.runtimeconfig.json
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Infraestrucuta\bin\Debug\net6.0\Infraestrucuta.pdb
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.AssemblyInfo.cs
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.sourcelink.json
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\refint\Infraestrucuta.dll
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.pdb
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\Infraestrucuta.genruntimeconfig.cache
+C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Infraestrucuta\obj\Debug\net6.0\ref\Infraestrucuta.dll

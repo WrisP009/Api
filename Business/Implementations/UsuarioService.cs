@@ -2,7 +2,6 @@
 using Core.ModelsView;
 using Infraestrucuta.Models;
 using Microsoft.EntityFrameworkCore;
-using Infraestrucuta.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,11 +10,13 @@ using System.Threading.Tasks;
 
 namespace Business.Implementations
 {
-    public class UsuarioServices 
+    public class UsuarioService : IUsuarioServices
     { 
         private readonly Desarrollo_plataformasContext _dbContext;
 
-        public UsuarioServices(Desarrollo_plataformasContext dbContext)
+        public UsuarioService() { }
+
+        public UsuarioService(Desarrollo_plataformasContext dbContext)
         {
             _dbContext = dbContext;
         }
@@ -23,19 +24,22 @@ namespace Business.Implementations
         public List<UsuarioView> ConsultarUsuarios()
         {
             List<UsuarioView> listaUsuariosView = new List<UsuarioView>();
-            var usuarios = _dbContext.Usuarios.Include(u => u.Persona).ToList();
-
-            foreach (var usuario in usuarios)
+            var usuarios = _dbContext.Usuarios.ToList();
+            if(listaUsuariosView != null)
             {
-                UsuarioView usuarioView = new UsuarioView
+                foreach (var usuario in usuarios)
                 {
-                    UsuarioId = usuario.UsuarioId,
-                    PersonaId = usuario.PersonaId,
-                    NombreUsuario = usuario.NombreUsuario,
-                    Contraseña = usuario.Contraseña,
-                    
-                };
-                listaUsuariosView.Add(usuarioView);
+                    UsuarioView usuarioView = new UsuarioView
+                    {
+                        UsuarioId = usuario.UsuarioId,
+                        PersonaId = usuario.PersonaId,
+                        NombreUsuario = usuario.NombreUsuario,
+                        Contraseña = usuario.Contraseña,
+
+                    };
+                    listaUsuariosView.Add(usuarioView);
+                }
+
             }
 
             return listaUsuariosView;
@@ -75,19 +79,19 @@ namespace Business.Implementations
             return true;
         }
 
-        public bool ActualizarUsuario(int id, UsuarioView usuarioView)
+        public Usuario ActualizarUsuario(int id, UsuarioView usuarioView)
         {
             var usuario = _dbContext.Usuarios.Find(id);
 
             if (usuario == null)
             {
-                return false;
+                return null;
             }
 
             usuario.NombreUsuario = usuarioView.NombreUsuario;
             usuario.Contraseña = usuarioView.Contraseña;
             _dbContext.SaveChanges();
-            return true;
+            return usuario;
         }
 
         public Usuario AgregarUsuario(int id, UsuarioView usuarioView)

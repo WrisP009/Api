@@ -1,4 +1,5 @@
 ﻿using Core.ModelsView;
+using Infraestrucuta.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,10 +11,10 @@ namespace Business.Interfaces
     public interface IPersonaServices
     {
         List<PersonaView> ConsultarServicios();
-        PersonaView ActualizarP(int id, PersonaView personaView);
-        PersonaView EliminarPorId(int id);
+        Persona ActualizarP(int id, PersonaView personaView);
+        bool EliminarPorId(int id);
         PersonaView buscarid(int id);
 
-        PerfilView AgregarP(int id, PersonaView personaView);
+        Persona AgregarP(int id, PersonaView personaView);
     }
 }

@@ -22,7 +22,7 @@ namespace DesarrolloP.Controllers
         {
             try
             {
-                var listServicios = _idusuario.ConsultarServicios();
+                var listServicios = _idusuario.ConsultarUsuarios();
                 return Ok(listServicios);
             }
             catch (Exception ex)
@@ -37,7 +37,7 @@ namespace DesarrolloP.Controllers
         {
             try
             {
-                var BuscarId = _idusuario.buscarid(id);
+                var BuscarId = _idusuario.BuscarUsuarioPorId(id);
                 return Ok(BuscarId);
             }
             catch (Exception ex)
@@ -103,7 +103,7 @@ namespace DesarrolloP.Controllers
         {
             try
             {
-                var Borrar = _idusuario.EliminarPorId(id);
+                var Borrar = _idusuario.EliminarUsuarioPorId(id);
                 return Ok(Borrar);
             }
             catch (Exception ex)

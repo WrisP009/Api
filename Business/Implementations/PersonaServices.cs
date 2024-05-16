@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace Business.Implementations
 {
-    public class PersonaServices : IPerfilServices
+    public class PersonaServices : IPersonaServices
     {
         private readonly Desarrollo_plataformasContext _dbcontext;
 
@@ -64,18 +64,18 @@ namespace Business.Implementations
              return PersonaView;
         }
 
-        public Persona EliminarPorId(int id)
+        public bool EliminarPorId(int id)
         {
             
             var persona = _dbcontext.Personas.Find(id);
 
             if (persona == null)
             {
-                return null;
+                return false;
             }
             _dbcontext.Personas.Remove(persona);
             _dbcontext.SaveChanges();
-             return persona; 
+             return true; 
 
         }
 

@@ -34,7 +34,8 @@ namespace DesarrolloP
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "DesarrolloP", Version = "Cristian Pabon" });
             });
 
-            services.AddTransient<IPerfilServices, PersonaServices>();
+            services.AddTransient<IPersonaServices, PersonaServices>();
+            services.AddTransient<IUsuarioServices, UsuarioService>();
             //services.AddScoped<IAswServices, AswServices>();
             //services.AddTransient<IPersonaServices, PersonaServices>();
 
