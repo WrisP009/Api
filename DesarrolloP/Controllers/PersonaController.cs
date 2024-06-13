@@ -53,47 +53,22 @@ namespace DesarrolloP.Controllers
 
         }
 
-        //    // POST api/<PersonaController>
-        [HttpPut("{id}")]
-        public async Task<ActionResult> Post(int id, string NNombre, string NApellido, string NCorreo)
-        {
-            PersonaView NuevaPersona = new PersonaView()
-            {
-                PersonaId = id,
-                Nombre = NNombre,
-                Apellido = NApellido,
-                CorreoElectronico = NCorreo,
-
-            };
-            try
-            {
-                var AgregarP = _idpersona.AgregarP(id, NuevaPersona);
-                return Ok(AgregarP);
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
-
-        }
-
-        //    // PUT api/<PersonaController>/5
-        //[HttpPut("{id}")]
-        //public ActionResult PUT(int id, string NNombre, string NApellido, string NCorreo)
+        // POST api/<PersonaController>
+        //[HttpPost]
+        //public async Task<ActionResult> POST([FromBody] PersonaView nuevaPersona)
         //{
-        //    PersonaView PersonaAc = new PersonaView()
+        //    PersonaView NuevaPersona = new PersonaView()
         //    {
         //        PersonaId = id,
         //        Nombre = NNombre,
         //        Apellido = NApellido,
         //        CorreoElectronico = NCorreo,
 
-        //    };
+        //    //};
         //    try
         //    {
-        //        var Actualizarp = _idpersona.ActualizarP(id, PersonaAc);
-        //        return Ok(Actualizarp);
-
+        //        var AgregarP = _idpersona.AgregarP(nuevaPersona);
+        //        return Ok(AgregarP);
         //    }
         //    catch (Exception ex)
         //    {
@@ -101,6 +76,41 @@ namespace DesarrolloP.Controllers
         //    }
 
         //}
+        [HttpPost]
+        public async Task<ActionResult> POST([FromBody] PersonaView nuevaPersona)
+        {
+            try
+            {
+                var agregarP = _idpersona.AgregarP(nuevaPersona);
+                if (agregarP == null)
+                {
+                    return Conflict("La persona ya existe.");
+                }
+                return Ok(agregarP);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.InnerException?.Message ?? ex.Message);
+            }
+        }
+
+        //PUT api/<PersonaController>/5
+        [HttpPut]
+        public ActionResult PUT([FromBody] PersonaView nuevaPersona)
+        {
+
+            try
+            {
+                var Actualizarp = _idpersona.ActualizarP(nuevaPersona);
+                return Ok(Actualizarp);
+
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+
+        }
 
         // DELETE api/<PersonaController>/5
         [HttpDelete("{id}")]

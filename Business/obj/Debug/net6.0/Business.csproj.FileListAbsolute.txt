@@ -148,3 +148,23 @@ C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Bus
 C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Business\obj\Debug\net6.0\Business.pdb
 C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
 C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Business\bin\Debug\net6.0\Business.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Business\bin\Debug\net6.0\Core.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Business\bin\Debug\net6.0\Infraestrucuta.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Business\bin\Debug\net6.0\Infraestrucuta.pdb
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Business\obj\Debug\net6.0\Business.sourcelink.json
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Business\obj\Debug\net6.0\Business.csproj.Up2Date
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Business\obj\Debug\net6.0\Business.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Business\obj\Debug\net6.0\ref\Business.dll

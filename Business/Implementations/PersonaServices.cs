@@ -79,9 +79,9 @@ namespace Business.Implementations
 
         }
 
-        public Persona ActualizarP(int id, PersonaView personaView)
+        public Persona ActualizarP(PersonaView personaView)
         {
-            var persona = _dbcontext.Personas.Find(id);
+            var persona = _dbcontext.Personas.Find(personaView.PersonaId);
 
             if(persona != null)
             {
@@ -96,24 +96,40 @@ namespace Business.Implementations
             
         }
 
-        public Persona AgregarP(int id, PersonaView personaView)
+        public Persona AgregarP(PersonaView personaView)
         {
-            var personaR = _dbcontext.Personas.Find(id);
+            try
+            {
+                var personaR = _dbcontext.Personas.Find(personaView.PersonaId);
 
-            if(personaR != null)
-            {
-                return null;
+                if (personaR != null)
+                {
+                    return null;
+                }
+
+                var Cpersona = new Persona
+                {
+                    PersonaId = personaView.PersonaId,
+                    Nombre = personaView.Nombre,
+                    Apellido = personaView.Apellido,
+                    CorreoElectronico = personaView.CorreoElectronico,
+                };
+                _dbcontext.Personas.Add(Cpersona);
+                _dbcontext.SaveChanges();
+                return Cpersona;
             }
-            var Cpersona = new Persona
+            catch (DbUpdateException dbEx)
             {
-                PersonaId = personaView.PersonaId,
-                Nombre = personaView.Nombre,
-                Apellido = personaView.Apellido,
-                CorreoElectronico = personaView.CorreoElectronico,
-            };
-            _dbcontext.Personas.Add(Cpersona);
-            _dbcontext.SaveChanges();
-            return Cpersona;
+                // Captura excepciones específicas de Entity Framework y muestra detalles adicionales
+                throw new Exception($"Error al guardar los cambios en la base de datos: {dbEx.InnerException?.Message}", dbEx);
+            }
+            catch (Exception ex)
+            {
+                // Maneja cualquier otra excepción
+                throw new Exception($"Ocurrió un error: {ex.Message}", ex);
+            }
+
+
 
         }
 

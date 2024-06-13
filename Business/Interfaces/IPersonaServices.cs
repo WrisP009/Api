@@ -11,10 +11,10 @@ namespace Business.Interfaces
     public interface IPersonaServices
     {
         List<PersonaView> ConsultarServicios();
-        Persona ActualizarP(int id, PersonaView personaView);
+        Persona ActualizarP(PersonaView personaView);
         bool EliminarPorId(int id);
         PersonaView buscarid(int id);
 
-        Persona AgregarP(int id, PersonaView personaView);
+        Persona AgregarP(PersonaView personaView);
     }
 }

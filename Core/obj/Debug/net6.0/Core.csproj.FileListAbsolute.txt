@@ -96,3 +96,19 @@ C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Cor
 C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Core\obj\Debug\net6.0\refint\Core.dll
 C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Core\obj\Debug\net6.0\Core.pdb
 C:\Users\user\Documents\Desarrollo Orientado Plataformas\Parcial\DesarrolloP\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Core\bin\Debug\net6.0\Core.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Core\bin\Debug\net6.0\Infraestrucuta.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Core\bin\Debug\net6.0\Infraestrucuta.pdb
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Core\obj\Debug\net6.0\Core.sourcelink.json
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Core\obj\Debug\net6.0\Core.csproj.Up2Date
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Core\obj\Debug\net6.0\Core.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\crist\OneDrive\Desktop\Carpetas\UNI\Septimo Semestre\Desarrollo Orientado a Plataformas\Desarrollo Orientado Plataformas\Api\Core\obj\Debug\net6.0\ref\Core.dll
